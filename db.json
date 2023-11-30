@@ -41,5 +41,9 @@
             "img": "card-news-4.png"
         }
     ],
-    "form": []
+    "form": [],
+    "user": {
+        "name": "Константин",
+        "img": "profile-avatar.png"
+    }
 }
